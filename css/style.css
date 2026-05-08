@@ -90,14 +90,26 @@ a:hover { color: #fff; }
 .nav-container {
   display: flex; align-items: center; justify-content: space-between;
 }
+/* ===== LOGO ===== */
+
 .logo {
-  font-family: var(--font-head);
-  font-size: 20px; font-weight: 700;
-  color: var(--white);
-  display: flex; align-items: center; gap: 8px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
 }
-.logo .logo-icon { font-size: 22px; }
-.logo strong { color: var(--accent); }
+
+.logo-img {
+  height: 55px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .logo-img {
+    height: 45px;
+  }
+}
 
 .nav-links {
   display: flex; align-items: center; gap: 32px;
