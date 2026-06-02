@@ -1,0 +1,81 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Biz Automate Pro",
+  "description": "Jaipur ki leading Business Automation, WhatsApp API, CRM, AI Chatbot aur Lead Generation company.",
+  "url": "https://bizautomatepro.in",
+  "logo": "https://bizautomatepro.in/images/logo.jpeg",
+  "image": "https://bizautomatepro.in/images/logo.jpeg",
+  "telephone": "+918233484766",
+  "email": "bizautomatepro@gmail.com",
+  "founder": {
+    "@type": "Person",
+    "name": "Rahul Mandal"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1st Floor, 412, Sumer Nagar, Mansarovar",
+    "addressLocality": "Jaipur",
+    "addressRegion": "Rajasthan",
+    "postalCode": "302020",
+    "addressCountry": "IN"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "10:00",
+    "closes": "19:00"
+  },
+  "priceRange": "₹₹",
+  "areaServed": {
+    "@type": "City",
+    "name": "Jaipur"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Business Automation Services",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Business Automation Solutions"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "WhatsApp Official API (Meta Verified)"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "CRM Software Solutions"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "AI Chatbots & AI Agents"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Lead Generation Services"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "E-commerce Website Development"}}
+    ]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Jaipur mein best business automation company kaun si hai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Biz Automate Pro Jaipur ki leading business automation company hai jo WhatsApp API, CRM, AI Chatbots aur Lead Generation services provide karti hai."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "WhatsApp Official API kya hota hai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WhatsApp Official API (Meta Verified) ek business messaging tool hai jisme bulk messaging, automated follow-ups aur CRM integration possible hai bina number ban ke risk ke."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Biz Automate Pro se free demo kaise milega?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aap 8233484766 par call ya WhatsApp karke free demo book kar sakte hain ya website ke contact form ke zariye message bhej sakte hain."
+      }
+    }
+  ]
+}
+</script>
